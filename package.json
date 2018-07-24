@@ -1,0 +1,25 @@
+{
+  "name": "argv-extractor",
+  "version": "0.0.1",
+  "description": "node cli script argument extractor",
+  "main": "dist/index",
+  "typings": "dist/index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeftAndRight/argv-extractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeftAndRight/argv-extractor/issues"
+  },
+  "homepage": "https://github.com/LeftAndRight/argv-extractor#readme",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "@types/inquirer": "0.0.42",
+    "inquirer": "^6.0.0",
+    "minimist": "^1.2.0"
+  }
+}
